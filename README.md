@@ -16,4 +16,10 @@ git ommit
 git add
 ~~~
 
-### อานนท์ ตรีโรจน์พร 
+## คำสั่ง python พื้นฐาน 
+~~~python
+d = { 'Anna': 3.99, 'Betty': 3.78 }
+for k,v in d.items():
+   print(k, v)
+~~~
+### name ANON TREEROJPORN ID=66114540889 
