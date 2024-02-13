@@ -8,4 +8,12 @@
 
 ![download banner](https://github.com/Yoshiii12/Yoshiii12.github.io/assets/159877903/b2296c63-a482-4104-b2da-d8ac90ccc4ff)
 
+## คำสั่ง git พื้นฐาน
+
+'''
+git status
+git ommit
+git add
+'''
+
 ### อานนท์ ตรีโรจน์พร 
